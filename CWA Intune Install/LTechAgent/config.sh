@@ -1,3 +1,0 @@
-LT_SERVER_ADDRESS=https://nsplus.netcenter.net
-LT_SYSTEM_PASSWORD=4Rd0tVUnGY9+dGn/Oz3GVvnbqDlpwQEL
-LT_LOCATION_ID=1140
